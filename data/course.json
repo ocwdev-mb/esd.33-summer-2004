@@ -1,0 +1,45 @@
+{
+  "term": "Summer",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "legacy_uid": "4cf9c298-7d08-858d-d160-a664bbc8eb6b",
+  "instructors": {
+    "content": [
+      "ce2a794a-3bd9-f266-68f3-776c1b372455"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f610c61-1c7c-a0d5-1c9b-b5d6b2dd90ae",
+    "website": "esd-33-systems-engineering-summer-2004"
+  },
+  "course_title": "Systems Engineering",
+  "course_description": "Systems engineering is an interdisciplinary approach and means to enable the realization of successful systems. It focuses on defining customer needs and required functionality early in the development cycle, documenting requirements, then proceeding with design synthesis and reliability improvement while considering the complete problem including operations, performance, test, manufacturing, cost, and schedule. This course emphasizes the links of systems engineering to fundamentals of decision theory, statistics, and optimization. The course also introduces the most current, commercially successful techniques for systems engineering.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.33",
+  "course_image_thumbnail": {
+    "content": "eaf57d9a-6863-1865-10f9-78b30f4adc26",
+    "website": "esd-33-systems-engineering-summer-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Exams",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "92a1d731-e6c3-4294-a8c6-b874f62f6a8d",
+  "site_short_id": "esd.33-summer-2004",
+  "title": "Course Metadata"
+}
